@@ -1,2 +1,3 @@
-# nebulii
-An issue tracker for the web
+# Nebulii
+
+> An issue tracker for the web
