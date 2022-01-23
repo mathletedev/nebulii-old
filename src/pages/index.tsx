@@ -1,5 +1,3 @@
-import { FC } from "react";
+import Dashboard from "../components/dashboard/Dashboard";
 
-const _Index: FC = () => <div>Hello, world!</div>;
-
-export default _Index;
+export default Dashboard;

@@ -1,4 +1,4 @@
-const { gray } = require("tailwindcss/colors");
+const { neutral } = require("tailwindcss/colors");
 
 module.exports = {
 	content: [
@@ -11,7 +11,7 @@ module.exports = {
 				sans: ["Roboto"]
 			},
 			colors: {
-				gray
+				gray: neutral
 			}
 		}
 	},
